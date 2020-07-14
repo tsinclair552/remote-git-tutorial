@@ -6,7 +6,7 @@ namespace remote_git_tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Sailor!");
+            Console.WriteLine("Good Evening Mr. and Mrs. America and All the Ships at Sea. Let's Go to Press.");
         }
     }
 }
